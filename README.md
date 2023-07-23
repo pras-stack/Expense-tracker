@@ -1,8 +1,8 @@
 ## Expense Tracker App
-This website will track your expense and income and record your expenditures and savings to give you a clear estimate of your balance left and your money.
-This website is made using Reactjs and React styled components , hooks , props.
+This website helps users track their expenses and income and to add and delete transactions and displays a summary of their total balance, income, and expenses. 
+It uses functional components with hooks and the context API
 
-Website is live at link : https://expense-tracker-pras.netlify.app/
+Website is live at link : https://expense-tracker-react-pras.netlify.app/
 
 
 
